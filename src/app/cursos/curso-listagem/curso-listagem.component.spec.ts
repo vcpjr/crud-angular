@@ -10,6 +10,7 @@ describe('CursoListagemComponent', () => {
     await TestBed.configureTestingModule({
       declarations: [ CursoListagemComponent ]
     })
+    
     .compileComponents();
   });
 
