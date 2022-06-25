@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nome": "Angular", "categoria": "frontend"},
+    {"id": 2, "nome": "Java", "categoria": "backend"},
+    {"id": 3, "nome": "Caché", "categoria": "demon"}
+]
